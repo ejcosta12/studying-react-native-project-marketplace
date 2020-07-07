@@ -1,11 +1,11 @@
 <h3 align="center">
-  Aplicação para criação gerenciamento de carrinho de compras: Projeto REACT NATIVE
+  Aplicação para gerenciamento de carrinho de compras: Projeto REACT NATIVE
 </h3>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/ejcosta12/studying-relations-database?style=flat-square">
-  <img alt="javaScript" src="https://img.shields.io/github/languages/top/ejcosta12/studying-relations-database">
-  <img alt="Size" src="https://img.shields.io/github/repo-size/ejcosta12/studying-relations-database">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/ejcosta12/studying-react-native-project-marketplace">
+  <img alt="javaScript" src="https://img.shields.io/github/languages/top/ejcosta12/studying-react-native-project-marketplace">
+  <img alt="Size" src="https://img.shields.io/github/repo-size/ejcosta12/studying-react-native-project-marketplace">
 </p>
 
 ## Sobre
