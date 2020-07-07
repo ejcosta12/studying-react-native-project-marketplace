@@ -12,8 +12,8 @@
 Versão mobile de aplicação para adicionar produtos em carrinho de compras com manipulação da quantidade de cada produto e atualização do preço total. Neste sistema foram abordados Async Storage e Context API.
 
 <p align="center">
-  <img alt="screen-shot-01" src="https://res.cloudinary.com/dggw1b0tr/image/upload/v1594123272/studying-react-native-project-marketplace/Listagem_wqofaa.png"></img>
-  <img alt="screen-shot-01" src="https://res.cloudinary.com/dggw1b0tr/image/upload/v1594123270/studying-react-native-project-marketplace/Carrinho_syq4bl.png"></img>
+  <img  alt="screen-shot-01" src="https://res.cloudinary.com/dggw1b0tr/image/upload/c_scale,w_230/v1594123272/studying-react-native-project-marketplace/Listagem_wqofaa.png"></img>
+  <img alt="screen-shot-01" src="https://res.cloudinary.com/dggw1b0tr/image/upload/c_scale,w_247/v1594123270/studying-react-native-project-marketplace/Carrinho_syq4bl.png"></img>
 </p>
 
 ### Tecnologias
